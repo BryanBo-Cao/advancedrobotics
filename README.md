@@ -5,6 +5,8 @@ Code repository and issue tracker for the Fall 2015 of "Advanced Robotics" (Inde
 
 http://correll.cs.colorado.edu/?page_id=3748
 
+Demo: https://www.youtube.com/watch?v=Tb0sU9bNYIY
+
 # Stewart Platform
 
 This repo contains the files necessary to build and control a Stewart platform.
